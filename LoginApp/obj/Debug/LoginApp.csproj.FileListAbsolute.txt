@@ -1,0 +1,11 @@
+C:\Users\sakal\source\repos\LoginApp\obj\Debug\LoginApp.csprojAssemblyReference.cache
+C:\Users\sakal\source\repos\LoginApp\obj\Debug\LoginApp.frmLogin.resources
+C:\Users\sakal\source\repos\LoginApp\obj\Debug\LoginApp.frmMain.resources
+C:\Users\sakal\source\repos\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\sakal\source\repos\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\sakal\source\repos\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\sakal\source\repos\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\sakal\source\repos\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\sakal\source\repos\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\sakal\source\repos\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\sakal\source\repos\LoginApp\obj\Debug\LoginApp.pdb
